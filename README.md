@@ -77,6 +77,15 @@ Screen Shot of Visualizations
 Top industries
 <img width="3555" height="1754" alt="top_industries" src="https://github.com/user-attachments/assets/4629f878-349e-4638-b1de-8c426c3b07e9" />
 
+company_size_distribution
+<img width="3553" height="1755" alt="company_size_distribution" src="https://github.com/user-attachments/assets/f788b371-8607-4500-8d51-5d0fd85d4e7f" />
+
+lead_score_distribution
+<img width="2953" height="1756" alt="lead_score_distribution" src="https://github.com/user-attachments/assets/169ae5e9-6b62-4874-b16c-3a32072c7147" />
+
+followers_distribution
+<img width="3551" height="1755" alt="followers_distribution" src="https://github.com/user-attachments/assets/95f0efcd-8bc7-450d-b80d-5fc885683e69" />
+
 How to Use
 1. Clone the repository:
 ```bash
