@@ -74,5 +74,5 @@ Tech Stack
 How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/ai-leadgen-tool.git
+git clone https://github.com/Anushree2005-AI/AI-lead-generation-tool.git
 cd ai-leadgen-tool
