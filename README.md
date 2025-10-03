@@ -1,4 +1,6 @@
 AI-Powered Lead Generation Tool 
+
+
 Overview
 This project is an “AI-powered lead generation tool” designed to help businesses identify high-value companies efficiently. By combining rule-based scoring and a machine learning model, the tool analyzes company data (from LinkedIn, Crunchbase, or other sources) and identifies potential high-value leads.  
 The tool is also deployed as an interactive web app using Streamlit, making it accessible online without requiring Python installation.  
